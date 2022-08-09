@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning NestJS and...Spanish  :)
 - 💞️ I’m looking for my first serious programming job. Full stack possibly.
 - JavaScript -- TypeScript -- Node -- Express -- Nest -- MySQL -- MongoDB -- HTML -- CSS -- React
+- English C1
 - 📫 How to reach me --> evoosha@gmail.com
 
 <!---
