@@ -6,7 +6,7 @@
 - Wordpress -- PHP
 - English C1
 - Spanish A1
-- 📫 How to reach me --> evoosha@gmail.com
+- How to reach me --> evoosha@gmail.com
 
 <!---
 Evva1023/Evva1023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
