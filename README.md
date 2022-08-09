@@ -3,6 +3,7 @@
 - I’m currently learning NestJS at MegaK full-stack bootcamp / www.megak.pl
 - I’m looking for my first serious programming job. Full stack possibly.
 - JavaScript -- TypeScript -- Node -- Express -- Nest -- MySQL -- MongoDB -- HTML -- CSS -- React
+- Wordpress -- PHP
 - English C1
 - Spanish A1
 - 📫 How to reach me --> evoosha@gmail.com
