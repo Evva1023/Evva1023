@@ -1,9 +1,10 @@
 - 👋 Hello there, I’m Eva.
 - 👀 I’m interested in back-end and front-end programming in JavaScript, and learning foreign languages.
-- 🌱 I’m currently learning NestJS and...Spanish  :)
+- 🌱 I’m currently learning NestJS at MegaK full-stack bootcamp / www.megak.pl
 - 💞️ I’m looking for my first serious programming job. Full stack possibly.
 - JavaScript -- TypeScript -- Node -- Express -- Nest -- MySQL -- MongoDB -- HTML -- CSS -- React
 - English C1
+- Spanish A1
 - 📫 How to reach me --> evoosha@gmail.com
 
 <!---
