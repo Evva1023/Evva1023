@@ -1,7 +1,7 @@
-- Hello there, I’m Eva.
+- Hello, I’m Eva.
 - I’m interested in back-end and front-end programming in JavaScript, and learning foreign languages.
 - I’m currently learning NestJS at MegaK full-stack bootcamp / www.megak.pl
-- I’m looking for my first serious programming job. Full stack possibly.
+- I’m looking for my first serious programming job. Full stack or front-end.
 - JavaScript -- TypeScript -- Node -- Express -- Nest -- MySQL -- MongoDB -- HTML -- CSS -- React
 - Wordpress -- PHP
 - English C1
