@@ -16,7 +16,7 @@
 
 #### How to reach me --> evoosha@gmail.com
 
-#### See my playground --> <a href="https://codepen.io/Eva2310/" target="-blank">https://codepen.io/Eva2310</a>
+#### See my playground --> <a href="https://codepen.io/Eva2310/" target="_blank">codepen</a>
 
 <!---
 Evva1023/Evva1023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
