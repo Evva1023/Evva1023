@@ -1,5 +1,5 @@
 ### Hello 👋, I’m Eva
-### I’m a passionate front-end coder and novice at back-end programming (very curious!)
+### I’m a passionate freelancing front-end coder and a novice at back-end programming
 
 📚 I'm constantly learning new skills, now it is NestJS, planning to get to know Angular, Next.js and Vue.js
 
