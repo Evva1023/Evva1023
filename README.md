@@ -3,7 +3,7 @@
 
 📚 I'm constantly learning new skills, now it is NestJS, planning to get to know Angular and Next.js
 
-🏆 Goal: write nice and clean code automatically, to need less refactoring later on
+🏆 Goal: to write nice and clean code automatically, so as to need less refactoring later on
 
 ### 🛠️ Technologies I use
 
