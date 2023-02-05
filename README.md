@@ -14,8 +14,6 @@
 - English (advanced)
 - Spanish (beginner)
 
-#### How to reach me --> evoosha@gmail.com
-
 #### See my playground --> https://codepen.io/Eva2310
 
 <!---
