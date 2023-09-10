@@ -1,6 +1,6 @@
-### I’m a passionate freelancing front-end coder and a novice at back-end programming
+### I’m a freelancing front-end coder and back-end programmer
 
-📚 I'm constantly learning new skills, now it is NestJS, planning to get to know Angular and Vue
+📚 I'm constantly learning new skills, now it is Angular
 
 🏆 Goal: to write nice and clean code, and need less refactoring later on
 
