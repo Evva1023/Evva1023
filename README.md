@@ -4,6 +4,7 @@
 
 ### Other abilities
 - Wordpress and PHP
+- Python
 - English (advanced)
 - Spanish (beginner)
 
